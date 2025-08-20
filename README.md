@@ -24,6 +24,8 @@ Intuitive Design: A simple graphical user interface (GUI) makes the tool easy to
 📜 Instrukcja użycia / Usage Instructions
 Instalacja modułów / Install Modules:
 
+Otwórz cmd / open cmd 
+
 pip install pymem
 
 pip install pyqt5
