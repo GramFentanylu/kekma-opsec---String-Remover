@@ -24,6 +24,8 @@ Intuitive Design: A simple graphical user interface (GUI) makes the tool easy to
 📜 Instrukcja użycia / Usage Instructions
 Instalacja modułów / Install Modules:
 
+Pobierz dwa pliki .py z repozytroium oraz pythona 3.13 / Download two .py files from the repository and Python 3.13.
+
 Otwórz cmd / open cmd 
 
 pip install pymem
