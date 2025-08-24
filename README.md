@@ -37,6 +37,7 @@ String Remover is a simple tool built entirely in Python that allows you to remo
 📦 Zainstaluj wymagane moduły:
 
 pip install pymem
+
 pip install pyqt5
 
 ▶️ Uruchomienie / Run
