@@ -1,50 +1,40 @@
-🧹 kekma-opsec — String Remover
-
+kekma-opsec — String Remover
 Proste narzędzie w Pythonie do usuwania zbędnych danych z pamięci RAM.
 
-🇵🇱 String Remover: Usuń zbędne dane z pamięci RAM ✨
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-String Remover to proste, w 100% oparte na Pythonie narzędzie, które pozwala na usunięcie niepotrzebnych “stringów” pozostawionych w pamięci komputera, widocznych w programach takich jak Process Hacker 2 czy System Informer.
+Opis:
+String Remover to w 100% oparte na Pythonie narzędzie, które pozwala usuwać niepotrzebne “stringi” pozostawione w pamięci komputera, widoczne m.in. w Process Hacker 2 i System Informer.
 
-🔹 Cechy projektu
+Cechy projektu
+• Cel: skanowanie i usuwanie “stringów” z pamięci RAM.
+• Technologia: całość napisana w Pythonie, stabilne i uniwersalne rozwiązanie.
+• Interfejs: prosty, intuicyjny GUI ułatwiający obsługę.
 
-🎯 Cel: Skanowanie i usuwanie “stringów” z pamięci RAM.
+Project Features (English)
+• Purpose: scans for and removes “strings” from your computer’s RAM.
+• Technology: entirely written in Python, ensuring stability and versatility.
+• Interface: simple, intuitive GUI for easy usage.
 
-🐍 Technologia: Całość napisana w Pythonie – stabilne i uniwersalne rozwiązanie.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🖥️ Intuicyjność: Prosty interfejs graficzny (GUI) ułatwia obsługę.
+Instrukcja użycia / Usage Instructions
 
-🇺🇸 String Remover: Clean Up Unused Data from RAM ✨
+Instalacja modułów / Install Modules
+• Pobierz dwa pliki .py z repozytorium / Download two .py files from the repository
+• Zainstaluj Python 3.13 / Install Python 3.13
+• Otwórz cmd i zainstaluj wymagane moduły: / Open cmd and install the required modules:
+  • pip install pymem
+  • pip install pyqt5
+  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-String Remover is a simple tool built entirely in Python that allows you to remove unnecessary “strings” left in your computer’s memory, visible to programs such as Process Hacker 2 or System Informer.
+Uruchomienie
+• Uruchom skrypt.
+• Wprowadź dane w interfejsie graficznym (GUI).
+• Program automatycznie usunie zbędne “stringi”.
 
-🔹 Project Features
-
-🎯 Purpose: Scans for and removes “strings” from your computer’s RAM.
-
-🐍 Technology: Entirely written in Python, ensuring stability and versatility.
-
-🖥️ Intuitive Design: A simple GUI makes the tool easy to use.
-
-📜 Instrukcja użycia / Usage Instructions
-🛠️ Instalacja modułów / Install Modules
-
-⬇️ Pobierz dwa pliki .py z repozytorium oraz Python 3.13
-⬇️ Download two .py files from the repository and Python 3.13
-
-💻 Otwórz cmd / Open cmd
-
-📦 Zainstaluj wymagane moduły:
-
-pip install pymem
-
-pip install pyqt5
-
-▶️ Uruchomienie / Run
-
-🚀 Uruchom skrypt / Run the script
-
-📝 Wprowadź dane zgodnie z interfejsem graficznym (GUI)
-
-✅ Gotowe! Program sam usunie stringi.
-✅ Done! The program will automatically remove the strings.
+Run
+• Run the script.
+• Enter data in the graphical user interface (GUI).
+• The program will automatically remove unnecessary strings.
