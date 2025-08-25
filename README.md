@@ -25,9 +25,9 @@ Instalacja modułów / Install Modules
 • Zainstaluj Python 3.13 / Install Python 3.13
 • Otwórz cmd i zainstaluj wymagane moduły: / Open cmd and install the required modules:
   
-  • pip install pymem
+• pip install pymem
   
-  • pip install pyqt5
+• pip install pyqt5
   
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
