@@ -1,7 +1,6 @@
 kekma-opsec — String Remover
 Proste narzędzie w Pythonie do usuwania zbędnych danych z pamięci RAM.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Opis:
 String Remover to w 100% oparte na Pythonie narzędzie, które pozwala usuwać niepotrzebne “stringi” pozostawione w pamięci komputera, widoczne m.in. w Process Hacker 2 i System Informer.
@@ -16,7 +15,6 @@ Project Features (English)
 • Technology: entirely written in Python, ensuring stability and versatility.
 • Interface: simple, intuitive GUI for easy usage.
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Instrukcja użycia / Usage Instructions
 
@@ -29,7 +27,6 @@ Instalacja modułów / Install Modules
   
 • pip install pyqt5
   
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Uruchomienie
 • Uruchom skrypt.
